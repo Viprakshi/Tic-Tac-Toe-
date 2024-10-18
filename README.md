@@ -1,12 +1,15 @@
 Tic Tac Toe - Python GUI
 
-This is a simple Tic Tac Toe game built using Python with a graphical user interface (GUI). The game is designed for two players (Player X and Player O), and it allows them to take turns marking the spaces on a 3x3 grid. The first player to align three marks horizontally, vertically, or diagonally wins the game. If all the spaces are filled and no player has won, the game ends in a draw.
+Author: Viprakshi Gupta
+
+This is a simple Tic Tac Toe game built using Python with a graphical user interface (GUI).The game is designed for two players, the first player to align three marks horizontally, vertically, or diagonally wins the game. If all the spaces are filled and no player has won, the game ends in a draw.
 
 Features:
 Interactive GUI: Built with Python's Tkinter library for a user-friendly interface.
 Two-player mode: Play locally with a friend, taking turns to make moves.
 Win/Draw detection: Automatically checks for a win or draw after each turn.
-Simple and intuitive design: Easy-to-use buttons to make the game enjoyable for all ages.
+
+
 Tech Stack:
 Language: Python
 Libraries: Tkinter (for the GUI)
